@@ -65,6 +65,7 @@ Even without an active output, the kit allows students to identify components, u
   <summary>Documentation</summary>
 
 </details>
+
 ---
 ### Conclusion
 The lab successfully introduced the Scientech 2261 Antenna Trainer and the Dinesh Microwave/Waveguide Trainer, providing a conceptual understanding of their functions and components. Through the antenna trainer, students learned how different antenna types differ from each other and how each of their properties relate to real-world applications like broadcasting, mobile communication, and directional links. 
