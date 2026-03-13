@@ -32,13 +32,13 @@ The Scientech 2261 kit includes multiple antenna types:
 <details>
   <summary>Documentation</summary>
 
-![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna1.jpg)
+![Antenna Training Kit](Documentation/Antenna-Trainer/Antenna1.jpg)
 
-![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna2.jpg)
+![Antenna Training Kit](Documentation/Antenna-Trainer/Antenna2.jpg)
 
-![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna3.jpg)
+![Antenna Training Kit](Documentation/Antenna-Trainer/Antenna3.jpg)
 
-![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna4.jpg)
+![Antenna Training Kit](Documentation/Antenna-Trainer/Antenna4.jpg)
 
 </details>
 
@@ -71,6 +71,10 @@ Even without an active output, the kit allows students to identify components, u
 
 <details>
   <summary>Documentation</summary>
+
+![Microwave Training Kit](Documentation/Waveguide-Trainer/Waveguide1.jpg)
+
+![Microwave Training Kit](Documentation/Waveguide-Trainer/Waveguide2.jpg)
 
 </details>
 
