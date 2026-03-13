@@ -29,8 +29,43 @@ The Scientech 2261 kit includes multiple antenna types:
 
 - ***Yagi-Uda*** - A directional antenna with a driven element, reflector, and one or more directors. It is highly directional in one plane, low radiation in other directions. It is commonly used in television reception (like the TV antennas placed in rooftops), point-to-point communication, radar satellite applications, etc.
 
+<details>
+  <summary>Documentation</summary>
+
+</details>
 ---
 ### Introduction to the Waveguide/Microwave Training Kit)
+The Dinesh Microwave Waveguide Trainer demonstrates microwave propagation and waveguide principles. Waveguides guide high-frequency signals efficiently, allowing students to study reflection, transmission, VSWR, and standing waves.
 
+**Main Components and its Functions**
+- ***Waveguide Sections*** - Hollow metallic guides that direct microwave signals. Dimensions determine cutoff frequency and supported modes (TE/TM).
+
+- ***Horn Antennas*** - Transition between waveguide and free space. Demonstrates how microwaves are launched or received efficiently. Beamwidth and directivity can be conceptually observed.
+
+- ***Directional Coupler*** - Measures power traveling forward and reflected backward. Illustrates how impedance mismatches cause reflections.
+
+- ***Slide Tuners / Slotted Line*** - Creates standing waves to study VSWR and reflection concepts. Shows how impedance mismatches affect wave propagation.
+
+- ***RF Source (Gunn Oscillator)*** - Provides microwave signals for the trainer. Demonstrates generation of high-frequency electromagnetic waves.
+
+- ***VSWR Meter / Detector*** - Conceptually measures transmission efficiency and reflections. Shows the importance of matching in microwave systems.
+
+- ***Cables and Connectors*** - Maintains signal integrity, demonstrating proper connectivity in high-frequency setups.
+
+**Functionality Overview**
+The waveguide trainer allows students to conceptually explore how microwaves propagate in confined structures:
+- Waveguides demonstrate TE and TM modes, showing how electromagnetic fields behave inside metallic channels.
+- Horn antennas illustrate directional propagation, beam shaping, and efficient transmission into free space.
+- Directional couplers and slide tuners provide a conceptual understanding of power reflection, standing waves, and VSWR, which are critical for high-frequency transmission.
+
+Even without an active output, the kit allows students to identify components, understand signal flow, and learn the principles of microwave and waveguide operation, laying the groundwork for future experimental work.
+
+<details>
+  <summary>Documentation</summary>
+
+</details>
 ---
 ### Conclusion
+The lab successfully introduced the Scientech 2261 Antenna Trainer and the Dinesh Microwave/Waveguide Trainer, providing a conceptual understanding of their functions and components. Through the antenna trainer, students learned how different antenna types differ from each other and how each of their properties relate to real-world applications like broadcasting, mobile communication, and directional links. 
+
+The waveguide trainer illustrated the principles of microwave propagation, including guided wave transmission, reflection, and standing waves, while highlighting the role of components such as horn antennas, directional couplers, slide tuners, and VSWR meters. Even without actual output signals, we were able to gain valuable insight into signal flow, component functionality, and fundamental electromagnetic wave behavior, forming a strong theoretical foundation for future hands-on experiments in communication systems.
