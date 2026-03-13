@@ -32,6 +32,14 @@ The Scientech 2261 kit includes multiple antenna types:
 <details>
   <summary>Documentation</summary>
 
+![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna1.jpg)
+
+![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna2.jpg)
+
+![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna3.jpg)
+
+![Antenna Training Kit](Documentation/Antenna_Trainer/Antenna4.jpg)
+
 </details>
 
 ---
